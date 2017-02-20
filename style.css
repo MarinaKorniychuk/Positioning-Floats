@@ -63,7 +63,7 @@ body {
 }
 
 #tip-top {
-    right: -38;
+    right: -38px;
     top: 120px;
     background-color: #f68e56;
     width: 107px;
@@ -93,11 +93,11 @@ p {
 }
 
 .p-margin {
-    margin: 15px 0px 0px 0px;
+    margin-top: 15px;
 }
 
 .image-table {
-    margin: 0px 30px 0px 30px;
+    margin: 0px 30px;
 }
 
 h4 {
@@ -124,6 +124,6 @@ footer {
 
 .fixed-image {
     position: fixed;
-    bottom: 40;
+    bottom: 40px;
     right: 0;
 }
